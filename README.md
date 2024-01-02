@@ -1,4 +1,4 @@
-# Smart Public Service
+# Green Wallet
 
 TBA
 
