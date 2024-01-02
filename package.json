@@ -1,0 +1,28 @@
+{
+  "name": "project-strukdat-v1",
+  "version": "1.0.0",
+  "description": "Project Strukdat Green Wallet",
+  "license": "MIT",
+  "repository": "https://github.com/themesberg/tailwind-nuxt-starter",
+  "contributors": [
+    "Fahri Desrian"
+  ],
+  "author": "Fahri Desrian",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/postcss8": "^1.1.3",
+    "@nuxtjs/tailwindcss": "^6.3.1",
+    "nuxt": "3.0.0"
+  },
+  "dependencies": {
+    "flowbite": "^1.6.3",
+    "vue-chartjs": "^5.3.0",
+    "vue-fetch": "^2.0.0"
+  }
+}
