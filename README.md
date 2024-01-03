@@ -1,27 +1,18 @@
-# Green Wallet
+# Panduan Instalasi
 
-TBA
+## Persyaratan (Requirements)
 
-## Getting started
+Pastikan Anda memiliki perangkat lunak berikut sebelum menginstal aplikasi:
 
-Make sure that you have Node.js installed on your project. Run the following command to install all dependencies:
+- [Node.js](https://nodejs.org/dist/v21.5.0/node-v21.5.0-x64.msi)
+- [Backend](https://codeload.github.com/Yuuuuurei/Green-Wallet-Frontend/zip/refs/heads/main)
 
-```
-npm install
-```
+Silakan unduh dan instal versi terbaru dari Node.js melalui tautan di atas.
 
-Run this command to compile and bundle the source code:
+## Langkah Instalasi
 
-```
-npm run dev
-```
+1. Pastikan bahwa backend sudah berjalan.
+2. Pastikan juga bahwa folder backend dan frontend berada di direktori yang sama.
+3. Jalankan file `.bat` untuk menjalankan aplikasi.
 
-Run this command to build the project:
-
-```
-npm run build
-```
-
-## License
-
-This project is open-source under the MIT license.
+Pastikan untuk mengikuti langkah-langkah di atas dengan teliti agar aplikasi dapat diinstal dengan sukses.
