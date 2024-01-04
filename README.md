@@ -16,3 +16,14 @@ Silakan unduh dan instal versi terbaru dari Node.js melalui tautan di atas.
 3. Jalankan file `.bat` untuk menjalankan aplikasi.
 
 Pastikan untuk mengikuti langkah-langkah di atas dengan teliti agar aplikasi dapat diinstal dengan sukses.
+
+## Alternatif Menjalankan Frontend
+
+Jika mengalami masalah dengan file `.bat` atau ingin menjalankan frontend secara manual, ikuti langkah-langkah alternatif ini:
+
+1. Buka command prompt (cmd) pada direktori frontend.
+2. Ketik perintah berikut secara berurutan:
+   ```bash
+   npm install
+   npm run dev
+   npm run build
