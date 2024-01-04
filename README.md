@@ -27,3 +27,4 @@ Jika mengalami masalah dengan file `.bat` atau ingin menjalankan frontend secara
    npm install
    npm run dev
    npm run build
+3. Untuk melihat frontendnya, Anda dapat membuat pada browser anda [Frontend](https://localhost:3000)
